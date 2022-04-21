@@ -1,7 +1,7 @@
 {
     "name": "suetin/pomodoro",
     "description": "WordPress Translation Cache.",
-    "type": "wordpress-muplugin",
+    "type": "wordpress-plugin",
     "license": "MIT",
     "require": {}
 }
